@@ -1,0 +1,7 @@
+This project's main idea is from the assignment in CS 246 of University of Waterloo.
+
+Straights is the card game which plays with 52 trump cards without jokers. This program requires 4 players in total. It provides the function of following:
+
+1. We can set who is computer player among 4 players. When the computer player's turn comes, then the program will play the card on its own. 
+2. The function rage quit enables the computer player takes place of the human player. 
+3. Wrong commands triggers program to print "wrong command" on the text display.
